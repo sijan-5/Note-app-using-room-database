@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room_data Base</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="title_is_here">title is here</string>
+    <string name="here_is_note">here is note</string>
+    <string name="delete">Delete</string>
+</resources>
